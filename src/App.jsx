@@ -457,6 +457,7 @@ return (
     Reset Everything (New Day)
   </button>
 </div>
+```
 
 );
 }
